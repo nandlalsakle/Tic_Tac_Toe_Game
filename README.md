@@ -8,8 +8,10 @@ JavaScript: Implements the game logic and handles user interactions, such as cli
 
 Features :-
 
-Play against a friend locally 🤼‍♂️
-Clean and intuitive user interface for a seamless gaming experience 🎨
-Smooth and interactive user interactions for enhanced gameplay enjoyment 🔄💫
-Lightweight and fast-loading for quick access and smooth gameplay 🚀
-Feel free to use this template as is or customize it further to suit your preferences! Enjoy your game of Tic Tac Toe and may the best player win!
+-> Play against a friend locally.
+
+-> Clean and intuitive user interface for a seamless gaming experience.
+
+-> Smooth and interactive user interactions for enhanced gameplay enjoyment.
+
+->Lightweight and fast-loading for quick access and smooth gameplay.
